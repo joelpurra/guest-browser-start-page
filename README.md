@@ -6,9 +6,7 @@ A friendly start page for your secondary/guest browser, letting your guests know
 
 ## Browser support
 
-![Firefox logo](http://joelpurra.github.io/guest-browser-start-page/firefox_logo.jpg)
-
-[Firefox](http://joelpurra.github.io/guest-browser-start-page/firefox.html)
+[![Firefox logo](http://joelpurra.github.io/guest-browser-start-page/firefox_logo.jpg)](http://joelpurra.github.io/guest-browser-start-page/firefox.html)
 
 
 
