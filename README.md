@@ -4,6 +4,12 @@ A friendly start page for your secondary/guest browser, letting your guests know
 
 
 
+> ## ⚠️ This project has been archived
+>
+> No future updates are planned. Feel free to continue using it, but expect no support.
+
+
+
 ## Browser support
 
 [![Firefox logo](http://joelpurra.github.io/guest-browser-start-page/firefox_logo.jpg)](http://joelpurra.github.io/guest-browser-start-page/firefox.html)
